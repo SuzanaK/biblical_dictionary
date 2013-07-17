@@ -10,3 +10,6 @@ English, German, French, Indonesian, Italian, Japanese, Chinese Simplified, Chin
 Danish, Greek, Korean, Dutch, Norwege, Polish, Portugese, Spanish, Swedish, Tagalog and Finnish.
 
 It contains nearly 5000 items. The data was scraped from wol.jw.org (-> publications -> Insight). The encoding is utf-8. 
+
+
+keywords: Bible, glossary, language, NLP
