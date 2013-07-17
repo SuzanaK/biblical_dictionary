@@ -9,4 +9,4 @@ following languages:
 English, German, French, Indonesian, Italian, Japanese, Chinese Simplified, Chinese Traditional, Czech, 
 Danish, Greek, Korean, Dutch, Norwege, Polish, Portugese, Spanish  
 
-It contains nearly 5000 items. The data was scraped from wol.jw.org (-> publications -> Insight)
+It contains nearly 5000 items. The data was scraped from wol.jw.org (-> publications -> Insight). The encoding is utf-8. 
