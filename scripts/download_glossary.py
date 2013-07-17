@@ -7,6 +7,8 @@ import urllib
 import codecs
 from bs4 import BeautifulSoup
 
+""" Download article names and IDs of the Insight book from wol.jw.org and save both in a csv file. """
+
 # must be changed according to target language!
 url = 'http://wol.jw.org/nl/wol/d/r18/lp-o/'
 
