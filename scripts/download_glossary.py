@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 """ Download article names and IDs of the Insight book from wol.jw.org and save both in a csv file. """
 
 # must be changed according to target language!
-url = 'http://wol.jw.org/nl/wol/d/r18/lp-o/'
+url = 'http://wol.jw.org/ilo/wol/d/r115/lp-il/'
 
 # 'Abel'
 start = 1200000005
@@ -44,7 +44,7 @@ while currentid <= end:
             # the word we are looking for is the text in bold
             word = bold.get_text()
     # wait to avoid strain on the jw.org servers
-    time.sleep(0.5)
+    time.sleep(0.3)
     # each row in the csv file will consist of the ID and the word
     new_row = id + ";" + word + "\n"
     print(new_row)
